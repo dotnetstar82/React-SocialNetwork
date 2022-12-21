@@ -54,4 +54,4 @@ A reactive single-page-social-network created with React. Screenshots below!!
 
 # Contribute
 
-Ryan Alba
+Jason Alava
